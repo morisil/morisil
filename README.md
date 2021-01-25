@@ -1,5 +1,5 @@
 # Hi there 👋
 
-Most of my work you will find at:
+Most of my work you will find under [@xemantic][https://github.com/xemantic], my label.
 
-https://github.com/xemantic
+Please visit also my website: https://xemantic.com
